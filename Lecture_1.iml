@@ -11,7 +11,7 @@
 <script nonce="+e21IZw3B6vV+ovXx2T5nw==">
 //<![CDATA[
 var gl = window.gl || {};
-gl.startup_calls = {"/ValeriiDmytryshyn/valeriidmytryshyn/-/blob/master/Java/Lecture_1/Lecture_1.iml?format=json\u0026viewer=simple":{}};
+gl.startup_calls = {"/MuzykaMilena/MuzykaMilena/-/blob/master/Java/Lecture_1/Lecture_1.iml?format=json\u0026viewer=simple":{}};
 gl.startup_graphql_calls = null;
 
 if (gl.startup_calls && window.fetch) {
@@ -57,18 +57,18 @@ if (gl.startup_graphql_calls && window.fetch) {
 </script>
 <meta content="object" property="og:type">
 <meta content="GitLab" property="og:site_name">
-<meta content="Java/Lecture_1/Lecture_1.iml · master · Valerii Dmytryshyn / ValeriiDmytryshyn" property="og:title">
+<meta content="Java/Lecture_1/Lecture_1.iml · master ·  Milena Muzyka /  Milena Muzyka" property="og:title">
 <meta content="GitLab.com" property="og:description">
 <meta content="https://gitlab.com/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png" property="og:image">
 <meta content="64" property="og:image:width">
 <meta content="64" property="og:image:height">
-<meta content="https://gitlab.com/ValeriiDmytryshyn/valeriidmytryshyn/-/blob/master/Java/Lecture_1/Lecture_1.iml" property="og:url">
+<meta content="https://gitlab.com/Milena Muzyka/Milena Muzyka/-/blob/master/Java/Lecture_1/Lecture_1.iml" property="og:url">
 <meta content="summary" property="twitter:card">
-<meta content="Java/Lecture_1/Lecture_1.iml · master · Valerii Dmytryshyn / ValeriiDmytryshyn" property="twitter:title">
+<meta content="Java/Lecture_1/Lecture_1.iml · master · Milena Muzyka / Milena Muzyka" property="twitter:title">
 <meta content="GitLab.com" property="twitter:description">
 <meta content="https://gitlab.com/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png" property="twitter:image">
 
-<title>Java/Lecture_1/Lecture_1.iml · master · Valerii Dmytryshyn / ValeriiDmytryshyn · GitLab</title>
+<title>Java/Lecture_1/Lecture_1.iml · master ·  Milena Muzyka /  Milena Muzyka · GitLab</title>
 <meta content="GitLab.com" name="description">
 <link rel="prefetch" href="/assets/webpack/monaco.8829ff95.chunk.js">
 <link rel="shortcut icon" type="image/png" href="/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png" id="favicon" data-original-href="/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png" />
@@ -119,7 +119,7 @@ window.gon={};gon.api_version="v4";gon.default_avatar_url="https://gitlab.com/as
 <script src="/assets/webpack/pages.projects.blob.show.3bdbf568.chunk.js" defer="defer" nonce="+e21IZw3B6vV+ovXx2T5nw=="></script>
 <script nonce="+e21IZw3B6vV+ovXx2T5nw==">
 //<![CDATA[
-window.uploads_path = "/ValeriiDmytryshyn/valeriidmytryshyn/uploads";
+window.uploads_path = "/Milena Muzyka/Milena Muzyka/uploads";
 
 
 
@@ -158,10 +158,10 @@ gl.snowplowPseudonymizedPageUrl = "https://gitlab.com/namespace8309466/project21
 
 //]]>
 </script>
-
+ Milena Muzyka
 </head>
 
-<body class="ui-indigo tab-width-8 gl-browser-chrome gl-platform-windows" data-find-file="/ValeriiDmytryshyn/valeriidmytryshyn/-/find_file/master" data-namespace-id="8309466" data-page="projects:blob:show" data-page-type-id="master/Java/Lecture_1/Lecture_1.iml" data-project="valeriidmytryshyn" data-project-id="21320706">
+<body class="ui-indigo tab-width-8 gl-browser-chrome gl-platform-windows" data-find-file="/Milena Muzyka/Milena Muzyka/-/find_file/master" data-namespace-id="8309466" data-page="projects:blob:show" data-page-type-id="master/Java/Lecture_1/Lecture_1.iml" data-project="" data-project-id="21320706">
 
 <script nonce="+e21IZw3B6vV+ovXx2T5nw==">
 //<![CDATA[
@@ -224,7 +224,7 @@ Menu
 <li class="dropdown-bold-header">
 This project
 </li>
-<li><a data-track-action="click_link_new_issue" data-track-label="plus_menu_dropdown" data-qa-selector="new_issue_link" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/issues/new">New issue</a></li>
+<li><a data-track-action="click_link_new_issue" data-track-label="plus_menu_dropdown" data-qa-selector="new_issue_link" href="/Milena Muzyka/Milena Muzyka/-/issues/new">New issue</a></li>
 <li class="divider"></li>
 <li class="dropdown-bold-header">
 GitLab
@@ -408,14 +408,14 @@ Set status
 <aside aria-label="Project navigation" class="nav-sidebar" data-track-action="render" data-track-label="projects_side_navigation" data-track-property="projects_side_navigation">
 <div class="nav-sidebar-inner-scroll">
 <ul class="sidebar-top-level-items" data-qa-selector="project_sidebar">
-<li data-track-label="scope_menu" data-container="body" data-placement="right" class="context-header has-tooltip" title="ValeriiDmytryshyn"><a aria-label="ValeriiDmytryshyn" class="shortcuts-project rspec-project-link gl-link" data-qa-selector="sidebar_menu_link" data-qa-menu-item="Project scope" href="/ValeriiDmytryshyn/valeriidmytryshyn"><span class="avatar-container rect-avatar s32 project_avatar">
+<li data-track-label="scope_menu" data-container="body" data-placement="right" class="context-header has-tooltip" title=" Milena Muzyka"><a aria-label=" Milena Muzyka" class="shortcuts-project rspec-project-link gl-link" data-qa-selector="sidebar_menu_link" data-qa-menu-item="Project scope" href="/Milena Muzyka/Milena Muzyka"><span class="avatar-container rect-avatar s32 project_avatar">
 <span class="avatar avatar-tile s32 identicon bg2">V</span>
 </span>
 <span class="sidebar-context-title">
 ValeriiDmytryshyn
 </span>
 </a></li>
-<li data-track-label="project_information_menu" class="home"><a aria-label="Project information" class="shortcuts-project-information has-sub-items gl-link" data-qa-selector="sidebar_menu_link" data-qa-menu-item="Project information" href="/ValeriiDmytryshyn/valeriidmytryshyn/activity"><span class="nav-icon-container">
+<li data-track-label="project_information_menu" class="home"><a aria-label="Project information" class="shortcuts-project-information has-sub-items gl-link" data-qa-selector="sidebar_menu_link" data-qa-menu-item="Project information" href="/Milena Muzyka/Milena Muzyka/activity"><span class="nav-icon-container">
 <svg class="s16" data-testid="project-icon"><use href="/assets/icons-7f1680a3670112fe4c8ef57b9dfb93f0f61b43a2a479d7abd6c83bcb724b9201.svg#project"></use></svg>
 </span>
 <span class="nav-item-name">
@@ -428,19 +428,19 @@ Project information
 </strong>
 </span>
 </li><li class="divider fly-out-top-item"></li>
-<li data-track-label="activity" class=""><a aria-label="Activity" class="shortcuts-project-activity gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Activity" href="/ValeriiDmytryshyn/valeriidmytryshyn/activity"><span>
+<li data-track-label="activity" class=""><a aria-label="Activity" class="shortcuts-project-activity gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Activity" href="/Milena Muzyka/Milena Muzyka/activity"><span>
 Activity
 </span>
-</a></li><li data-track-label="labels" class=""><a aria-label="Labels" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Labels" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/labels"><span>
+</a></li><li data-track-label="labels" class=""><a aria-label="Labels" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Labels" href="/Milena Muzyka/Milena Muzyka/-/labels"><span>
 Labels
 </span>
-</a></li><li data-track-label="members" class=""><a aria-label="Members" id="js-onboarding-members-link" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Members" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/project_members"><span>
+</a></li><li data-track-label="members" class=""><a aria-label="Members" id="js-onboarding-members-link" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Members" href="/Milena Muzyka/Milena Muzyka/-/project_members"><span>
 Members
 </span>
 </a></li>
 </ul>
 
-</li><li data-track-label="repository_menu" class="active"><a aria-label="Repository" class="shortcuts-tree has-sub-items gl-link" data-qa-selector="sidebar_menu_link" data-qa-menu-item="Repository" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/tree/master"><span class="nav-icon-container">
+</li><li data-track-label="repository_menu" class="active"><a aria-label="Repository" class="shortcuts-tree has-sub-items gl-link" data-qa-selector="sidebar_menu_link" data-qa-menu-item="Repository" href="/Milena Muzyka/Milena Muzyka/-/tree/master"><span class="nav-icon-container">
 <svg class="s16" data-testid="doc-text-icon"><use href="/assets/icons-7f1680a3670112fe4c8ef57b9dfb93f0f61b43a2a479d7abd6c83bcb724b9201.svg#doc-text"></use></svg>
 </span>
 <span class="nav-item-name" id="js-onboarding-repo-link">
@@ -453,34 +453,34 @@ Repository
 </strong>
 </span>
 </li><li class="divider fly-out-top-item"></li>
-<li data-track-label="files" class="active"><a aria-label="Files" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Files" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/tree/master"><span>
+<li data-track-label="files" class="active"><a aria-label="Files" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Files" href="/ Milena Muzyka/ Milena Muzyka/-/tree/master"><span>
 Files
 </span>
-</a></li><li data-track-label="commits" class=""><a aria-label="Commits" id="js-onboarding-commits-link" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Commits" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/commits/master"><span>
+</a></li><li data-track-label="commits" class=""><a aria-label="Commits" id="js-onboarding-commits-link" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Commits" href="/ Milena Muzyka/ Milena Muzyka/-/commits/master"><span>
 Commits
 </span>
-</a></li><li data-track-label="branches" class=""><a aria-label="Branches" id="js-onboarding-branches-link" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Branches" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/branches"><span>
+</a></li><li data-track-label="branches" class=""><a aria-label="Branches" id="js-onboarding-branches-link" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Branches" href="/ Milena Muzyka/ Milena Muzyka/-/branches"><span>
 Branches
 </span>
-</a></li><li data-track-label="tags" class=""><a aria-label="Tags" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Tags" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/tags"><span>
+</a></li><li data-track-label="tags" class=""><a aria-label="Tags" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Tags" href="/ Milena Muzyka/ Milena Muzyka/-/tags"><span>
 Tags
 </span>
-</a></li><li data-track-label="contributors" class=""><a aria-label="Contributors" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Contributors" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/graphs/master"><span>
+</a></li><li data-track-label="contributors" class=""><a aria-label="Contributors" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Contributors" href="/  Milena Muzyka/Milena Muzyka/-/graphs/master"><span>
 Contributors
 </span>
-</a></li><li data-track-label="graphs" class=""><a aria-label="Graph" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Graph" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/network/master"><span>
+</a></li><li data-track-label="graphs" class=""><a aria-label="Graph" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Graph" href="/ Milena Muzyka/ Milena Muzyka/-/network/master"><span>
 Graph
 </span>
-</a></li><li data-track-label="compare" class=""><a aria-label="Compare" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Compare" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/compare?from=master&amp;to=master"><span>
+</a></li><li data-track-label="compare" class=""><a aria-label="Compare" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Compare" href="/ Milena Muzyka/ Milena Muzyka/-/compare?from=master&amp;to=master"><span>
 Compare
 </span>
-</a></li><li data-track-label="file_locks" class=""><a aria-label="Locked Files" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Locked Files" href="/ValeriiDmytryshyn/valeriidmytryshyn/path_locks"><span>
+</a></li><li data-track-label="file_locks" class=""><a aria-label="Locked Files" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Locked Files" href="/ Milena Muzyka/ Milena Muzyka/path_locks"><span>
 Locked Files
 </span>
 </a></li>
 </ul>
 
-</li><li data-track-label="issues_menu" class=""><a aria-label="Issues" class="shortcuts-issues has-sub-items gl-link" data-qa-selector="sidebar_menu_link" data-qa-menu-item="Issues" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/issues"><span class="nav-icon-container">
+</li><li data-track-label="issues_menu" class=""><a aria-label="Issues" class="shortcuts-issues has-sub-items gl-link" data-qa-selector="sidebar_menu_link" data-qa-menu-item="Issues" href="/ Milena Muzyka/ Milena Muzyka/-/issues"><span class="nav-icon-container">
 <svg class="s16" data-testid="issues-icon"><use href="/assets/icons-7f1680a3670112fe4c8ef57b9dfb93f0f61b43a2a479d7abd6c83bcb724b9201.svg#issues"></use></svg>
 </span>
 <span class="nav-item-name" id="js-onboarding-issues-link">
@@ -499,28 +499,28 @@ Issues
 </span>
 </span>
 </li><li class="divider fly-out-top-item"></li>
-<li data-track-label="issue_list" class=""><a aria-label="Issues" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="List" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/issues"><span>
+<li data-track-label="issue_list" class=""><a aria-label="Issues" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="List" href="/Milena Muzyka/Milena Muzyka/-/issues"><span>
 List
 </span>
-</a></li><li data-track-label="boards" class=""><a aria-label="Boards" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Boards" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/boards"><span>
+</a></li><li data-track-label="boards" class=""><a aria-label="Boards" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Boards" href="/Milena Muzyka/Milena Muzyka/-/boards"><span>
 Boards
 </span>
-</a></li><li data-track-label="service_desk" class=""><a aria-label="Service Desk" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Service Desk" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/issues/service_desk"><span>
+</a></li><li data-track-label="service_desk" class=""><a aria-label="Service Desk" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Service Desk" href="/Milena Muzyka/Milena Muzyka/-/issues/service_desk"><span>
 Service Desk
 </span>
-</a></li><li data-track-label="milestones" class=""><a aria-label="Milestones" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Milestones" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/milestones"><span>
+</a></li><li data-track-label="milestones" class=""><a aria-label="Milestones" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Milestones" href="/Milena Muzyka/Milena Muzyka/-/milestones"><span>
 Milestones
 </span>
-</a></li><li data-track-label="iterations" class=""><a aria-label="Iterations" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Iterations" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/iterations"><span>
+</a></li><li data-track-label="iterations" class=""><a aria-label="Iterations" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Iterations" href="/Milena Muzyka/Milena Muzyka/-/iterations"><span>
 Iterations
 </span>
-</a></li><li data-track-label="requirements" class=""><a aria-label="Requirements" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Requirements" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/requirements_management/requirements"><span>
+</a></li><li data-track-label="requirements" class=""><a aria-label="Requirements" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Requirements" href="/Milena Muzyka/Milena Muzyka/-/requirements_management/requirements"><span>
 Requirements
 </span>
 </a></li>
 </ul>
 
-</li><li data-track-label="merge_requests_menu" class=""><a aria-label="Merge requests" class="shortcuts-merge_requests gl-link" data-qa-selector="sidebar_menu_link" data-qa-menu-item="Merge requests" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/merge_requests"><span class="nav-icon-container">
+</li><li data-track-label="merge_requests_menu" class=""><a aria-label="Merge requests" class="shortcuts-merge_requests gl-link" data-qa-selector="sidebar_menu_link" data-qa-menu-item="Merge requests" href="/Milena Muzyka/Milena Muzyka/-/merge_requests"><span class="nav-icon-container">
 <svg class="s16" data-testid="git-merge-icon"><use href="/assets/icons-7f1680a3670112fe4c8ef57b9dfb93f0f61b43a2a479d7abd6c83bcb724b9201.svg#git-merge"></use></svg>
 </span>
 <span class="nav-item-name" id="js-onboarding-mr-link">
@@ -540,7 +540,7 @@ Merge requests
 </span>
 </li></ul>
 
-</li><li data-track-label="ci_cd_menu" class=""><a aria-label="CI/CD" class="shortcuts-pipelines rspec-link-pipelines has-sub-items gl-link" data-qa-selector="sidebar_menu_link" data-qa-menu-item="CI/CD" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/pipelines"><span class="nav-icon-container">
+</li><li data-track-label="ci_cd_menu" class=""><a aria-label="CI/CD" class="shortcuts-pipelines rspec-link-pipelines has-sub-items gl-link" data-qa-selector="sidebar_menu_link" data-qa-menu-item="CI/CD" href="/Milena Muzyka/Milena Muzyka/-/pipelines"><span class="nav-icon-container">
 <svg class="s16" data-testid="rocket-icon"><use href="/assets/icons-7f1680a3670112fe4c8ef57b9dfb93f0f61b43a2a479d7abd6c83bcb724b9201.svg#rocket"></use></svg>
 </span>
 <span class="nav-item-name" id="js-onboarding-pipelines-link">
@@ -553,22 +553,22 @@ CI/CD
 </strong>
 </span>
 </li><li class="divider fly-out-top-item"></li>
-<li data-track-label="pipelines" class=""><a aria-label="Pipelines" class="shortcuts-pipelines gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Pipelines" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/pipelines"><span>
+<li data-track-label="pipelines" class=""><a aria-label="Pipelines" class="shortcuts-pipelines gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Pipelines" href="/Milena Muzyka/Milena Muzyka/-/pipelines"><span>
 Pipelines
 </span>
-</a></li><li data-track-label="jobs" class=""><a aria-label="Jobs" class="shortcuts-builds gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Jobs" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/jobs"><span>
+</a></li><li data-track-label="jobs" class=""><a aria-label="Jobs" class="shortcuts-builds gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Jobs" href="/Milena Muzyka/Milena Muzyka/-/jobs"><span>
 Jobs
 </span>
-</a></li><li data-track-label="pipeline_schedules" class=""><a aria-label="Schedules" class="shortcuts-builds gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Schedules" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/pipeline_schedules"><span>
+</a></li><li data-track-label="pipeline_schedules" class=""><a aria-label="Schedules" class="shortcuts-builds gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Schedules" href="/Milena Muzyka/Milena Muzyka/-/pipeline_schedules"><span>
 Schedules
 </span>
-</a></li><li data-track-label="test_cases" class=""><a aria-label="Test Cases" class="shortcuts-test-cases gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Test Cases" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/quality/test_cases"><span>
+</a></li><li data-track-label="test_cases" class=""><a aria-label="Test Cases" class="shortcuts-test-cases gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Test Cases" href="/Milena Muzyka/Milena Muzyka/-/quality/test_cases"><span>
 Test Cases
 </span>
 </a></li>
 </ul>
 
-</li><li data-track-label="deployments_menu" class=""><a aria-label="Deployments" class="shortcuts-deployments has-sub-items gl-link" data-qa-selector="sidebar_menu_link" data-qa-menu-item="Deployments" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/environments"><span class="nav-icon-container">
+</li><li data-track-label="deployments_menu" class=""><a aria-label="Deployments" class="shortcuts-deployments has-sub-items gl-link" data-qa-selector="sidebar_menu_link" data-qa-menu-item="Deployments" href="/Milena Muzyka/-/environments"><span class="nav-icon-container">
 <svg class="s16" data-testid="deployments-icon"><use href="/assets/icons-7f1680a3670112fe4c8ef57b9dfb93f0f61b43a2a479d7abd6c83bcb724b9201.svg#deployments"></use></svg>
 </span>
 <span class="nav-item-name">
@@ -581,16 +581,16 @@ Deployments
 </strong>
 </span>
 </li><li class="divider fly-out-top-item"></li>
-<li data-track-label="environments" class=""><a aria-label="Environments" class="shortcuts-environments gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Environments" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/environments"><span>
+<li data-track-label="environments" class=""><a aria-label="Environments" class="shortcuts-environments gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Environments" href="/Milena Muzyka/Milena Muzyka/-/environments"><span>
 Environments
 </span>
-</a></li><li data-track-label="releases" class=""><a aria-label="Releases" class="shortcuts-deployments-releases gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Releases" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/releases"><span>
+</a></li><li data-track-label="releases" class=""><a aria-label="Releases" class="shortcuts-deployments-releases gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Releases" href="/Milena Muzyka/Milena Muzyka/-/releases"><span>
 Releases
 </span>
 </a></li>
 </ul>
 
-</li><li data-track-label="monitor_menu" class=""><a aria-label="Monitor" class="shortcuts-monitor has-sub-items gl-link" data-qa-selector="sidebar_menu_link" data-qa-menu-item="Monitor" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/incidents"><span class="nav-icon-container">
+</li><li data-track-label="monitor_menu" class=""><a aria-label="Monitor" class="shortcuts-monitor has-sub-items gl-link" data-qa-selector="sidebar_menu_link" data-qa-menu-item="Monitor" href="/Milena Muzyka/Milena Muzyka/-/incidents"><span class="nav-icon-container">
 <svg class="s16" data-testid="monitor-icon"><use href="/assets/icons-7f1680a3670112fe4c8ef57b9dfb93f0f61b43a2a479d7abd6c83bcb724b9201.svg#monitor"></use></svg>
 </span>
 <span class="nav-item-name">
@@ -603,13 +603,13 @@ Monitor
 </strong>
 </span>
 </li><li class="divider fly-out-top-item"></li>
-<li data-track-label="incidents" class=""><a aria-label="Incidents" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Incidents" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/incidents"><span>
+<li data-track-label="incidents" class=""><a aria-label="Incidents" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Incidents" href="/Milena Muzyka/Milena Muzyka/-/incidents"><span>
 Incidents
 </span>
 </a></li>
 </ul>
 
-</li><li data-track-label="packages_registries_menu" class=""><a aria-label="Packages &amp; Registries" class="has-sub-items gl-link" data-qa-selector="sidebar_menu_link" data-qa-menu-item="Packages &amp; Registries" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/packages"><span class="nav-icon-container">
+</li><li data-track-label="packages_registries_menu" class=""><a aria-label="Packages &amp; Registries" class="has-sub-items gl-link" data-qa-selector="sidebar_menu_link" data-qa-menu-item="Packages &amp; Registries" href="/Milena Muzyka/Milena Muzyka/-/packages"><span class="nav-icon-container">
 <svg class="s16" data-testid="package-icon"><use href="/assets/icons-7f1680a3670112fe4c8ef57b9dfb93f0f61b43a2a479d7abd6c83bcb724b9201.svg#package"></use></svg>
 </span>
 <span class="nav-item-name">
@@ -622,19 +622,19 @@ Packages &amp; Registries
 </strong>
 </span>
 </li><li class="divider fly-out-top-item"></li>
-<li data-track-label="packages_registry" class=""><a aria-label="Package Registry" class="shortcuts-container-registry gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Package Registry" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/packages"><span>
+<li data-track-label="packages_registry" class=""><a aria-label="Package Registry" class="shortcuts-container-registry gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Package Registry" href="/Milena Muzyka/Milena Muzyka/-/packages"><span>
 Package Registry
 </span>
-</a></li><li data-track-label="container_registry" class=""><a aria-label="Container Registry" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Container Registry" href="/ValeriiDmytryshyn/valeriidmytryshyn/container_registry"><span>
+</a></li><li data-track-label="container_registry" class=""><a aria-label="Container Registry" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Container Registry" href="/Milena Muzyka/Milena Muzyka/container_registry"><span>
 Container Registry
 </span>
-</a></li><li data-track-label="infrastructure_registry" class=""><a aria-label="Infrastructure Registry" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Infrastructure Registry" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/infrastructure_registry"><span>
+</a></li><li data-track-label="infrastructure_registry" class=""><a aria-label="Infrastructure Registry" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Infrastructure Registry" href="/Milena Muzyka/Milena Muzyka/-/infrastructure_registry"><span>
 Infrastructure Registry
 </span>
 </a></li>
 </ul>
 
-</li><li data-track-label="analytics_menu" class=""><a aria-label="Analytics" class="shortcuts-analytics has-sub-items gl-link" data-qa-selector="sidebar_menu_link" data-qa-menu-item="Analytics" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/value_stream_analytics"><span class="nav-icon-container">
+</li><li data-track-label="analytics_menu" class=""><a aria-label="Analytics" class="shortcuts-analytics has-sub-items gl-link" data-qa-selector="sidebar_menu_link" data-qa-menu-item="Analytics" href="/Milena Muzyka/Milena Muzyka/-/value_stream_analytics"><span class="nav-icon-container">
 <svg class="s16" data-testid="chart-icon"><use href="/assets/icons-7f1680a3670112fe4c8ef57b9dfb93f0f61b43a2a479d7abd6c83bcb724b9201.svg#chart"></use></svg>
 </span>
 <span class="nav-item-name">
@@ -647,28 +647,28 @@ Analytics
 </strong>
 </span>
 </li><li class="divider fly-out-top-item"></li>
-<li data-track-label="cycle_analytics" class=""><a aria-label="Value stream" class="shortcuts-project-cycle-analytics gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Value stream" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/value_stream_analytics"><span>
+<li data-track-label="cycle_analytics" class=""><a aria-label="Value stream" class="shortcuts-project-cycle-analytics gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Value stream" href="/Milena Muzyka/Milena Muzyka/-/value_stream_analytics"><span>
 Value stream
 </span>
-</a></li><li data-track-label="ci_cd_analytics" class=""><a aria-label="CI/CD" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="CI/CD" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/pipelines/charts"><span>
+</a></li><li data-track-label="ci_cd_analytics" class=""><a aria-label="CI/CD" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="CI/CD" href="/Milena Muzyka/Milena Muzyka/-/pipelines/charts"><span>
 CI/CD
 </span>
-</a></li><li data-track-label="code_review" class=""><a aria-label="Code review" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Code review" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/analytics/code_reviews"><span>
+</a></li><li data-track-label="code_review" class=""><a aria-label="Code review" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Code review" href="/Milena Muzyka/Milena Muzyka/-/analytics/code_reviews"><span>
 Code review
 </span>
-</a></li><li data-track-label="insights" class=""><a aria-label="Insights" class="shortcuts-project-insights gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Insights" href="/ValeriiDmytryshyn/valeriidmytryshyn/insights/"><span>
+</a></li><li data-track-label="insights" class=""><a aria-label="Insights" class="shortcuts-project-insights gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Insights" href="/Milena Muzyka/Milena Muzyka/insights/"><span>
 Insights
 </span>
-</a></li><li data-track-label="issues" class=""><a aria-label="Issue" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Issue" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/analytics/issues_analytics"><span>
+</a></li><li data-track-label="issues" class=""><a aria-label="Issue" class="gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Issue" href="/Milena Muzyka/Milena Muzyka/-/analytics/issues_analytics"><span>
 Issue
 </span>
-</a></li><li data-track-label="repository_analytics" class=""><a aria-label="Repository" class="shortcuts-repository-charts gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Repository" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/graphs/master/charts"><span>
+</a></li><li data-track-label="repository_analytics" class=""><a aria-label="Repository" class="shortcuts-repository-charts gl-link" data-qa-selector="sidebar_menu_item_link" data-qa-menu-item="Repository" href="/Milena Muzyka/Milena Muzyka/-/graphs/master/charts"><span>
 Repository
 </span>
 </a></li>
 </ul>
 
-</li><li data-track-label="wiki_menu" class=""><a aria-label="Wiki" class="shortcuts-wiki gl-link" data-qa-selector="sidebar_menu_link" data-qa-menu-item="Wiki" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/wikis/home"><span class="nav-icon-container">
+</li><li data-track-label="wiki_menu" class=""><a aria-label="Wiki" class="shortcuts-wiki gl-link" data-qa-selector="sidebar_menu_link" data-qa-menu-item="Wiki" href="/Milena Muzyka/Milena Muzyka/-/wikis/home"><span class="nav-icon-container">
 <svg class="s16" data-testid="book-icon"><use href="/assets/icons-7f1680a3670112fe4c8ef57b9dfb93f0f61b43a2a479d7abd6c83bcb724b9201.svg#book"></use></svg>
 </span>
 <span class="nav-item-name">
@@ -682,7 +682,7 @@ Wiki
 </span>
 </li></ul>
 
-</li><li data-track-label="snippets_menu" class=""><a aria-label="Snippets" class="shortcuts-snippets gl-link" data-qa-selector="sidebar_menu_link" data-qa-menu-item="Snippets" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/snippets"><span class="nav-icon-container">
+</li><li data-track-label="snippets_menu" class=""><a aria-label="Snippets" class="shortcuts-snippets gl-link" data-qa-selector="sidebar_menu_link" data-qa-menu-item="Snippets" href="/Milena Muzyka/Milena Muzyka/-/snippets"><span class="nav-icon-container">
 <svg class="s16" data-testid="snippet-icon"><use href="/assets/icons-7f1680a3670112fe4c8ef57b9dfb93f0f61b43a2a479d7abd6c83bcb724b9201.svg#snippet"></use></svg>
 </span>
 <span class="nav-item-name">
@@ -698,22 +698,22 @@ Snippets
 
 </li>
 <li class="hidden">
-<a aria-label="Activity" class="shortcuts-project-activity gl-link" href="/ValeriiDmytryshyn/valeriidmytryshyn/activity">Activity
+<a aria-label="Activity" class="shortcuts-project-activity gl-link" href="/ Milena Muzyka/Milena Muzyka/activity">Activity
 </a></li>
 <li class="hidden">
-<a aria-label="Graph" class="shortcuts-network gl-link" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/network/master">Graph
+<a aria-label="Graph" class="shortcuts-network gl-link" href="/ Milena Muzyka/ Milena Muzyka/-/network/master">Graph
 </a></li>
 <li class="hidden">
-<a aria-label="Create a new issue" class="shortcuts-new-issue gl-link" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/issues/new">Create a new issue
+<a aria-label="Create a new issue" class="shortcuts-new-issue gl-link" href="/Milena Muzyka/Milena Muzyka/-/issues/new">Create a new issue
 </a></li>
 <li class="hidden">
-<a aria-label="Jobs" class="shortcuts-builds gl-link" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/jobs">Jobs
+<a aria-label="Jobs" class="shortcuts-builds gl-link" href="/ Milena Muzyka/Milena Muzyka/-/jobs">Jobs
 </a></li>
 <li class="hidden">
-<a aria-label="Commits" class="shortcuts-commits gl-link" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/commits/master">Commits
+<a aria-label="Commits" class="shortcuts-commits gl-link" href="/ Milena Muzyka/Milena Muzyka/-/commits/master">Commits
 </a></li>
 <li class="hidden">
-<a aria-label="Issue Boards" class="shortcuts-issue-boards gl-link" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/boards">Issue Boards
+<a aria-label="Issue Boards" class="shortcuts-issue-boards gl-link" href="/ Milena Muzyka/Milena Muzyka/-/boards">Issue Boards
 </a></li>
 
 </ul>
@@ -755,17 +755,17 @@ Snippets
 <svg class="s18" data-testid="hamburger-icon"><use href="/assets/icons-7f1680a3670112fe4c8ef57b9dfb93f0f61b43a2a479d7abd6c83bcb724b9201.svg#hamburger"></use></svg>
 </button><div class="breadcrumbs-links" data-qa-selector="breadcrumb_links_content" data-testid="breadcrumb-links">
 <ul class="list-unstyled breadcrumbs-list js-breadcrumbs-list">
-<li><a href="/ValeriiDmytryshyn">Valerii Dmytryshyn</a><svg class="s8 breadcrumbs-list-angle" data-testid="angle-right-icon"><use href="/assets/icons-7f1680a3670112fe4c8ef57b9dfb93f0f61b43a2a479d7abd6c83bcb724b9201.svg#angle-right"></use></svg></li> <li><a href="/ValeriiDmytryshyn/valeriidmytryshyn"><span class="breadcrumb-item-text js-breadcrumb-item-text">ValeriiDmytryshyn</span></a><svg class="s8 breadcrumbs-list-angle" data-testid="angle-right-icon"><use href="/assets/icons-7f1680a3670112fe4c8ef57b9dfb93f0f61b43a2a479d7abd6c83bcb724b9201.svg#angle-right"></use></svg></li>
+<li><a href="/Milena Muzyka">Milena Muzyka</a><svg class="s8 breadcrumbs-list-angle" data-testid="angle-right-icon"><use href="/assets/icons-7f1680a3670112fe4c8ef57b9dfb93f0f61b43a2a479d7abd6c83bcb724b9201.svg#angle-right"></use></svg></li> <li><a href="/ Milena Muzyka/Milena Muzyka"><span class="breadcrumb-item-text js-breadcrumb-item-text">Milena Muzyka</span></a><svg class="s8 breadcrumbs-list-angle" data-testid="angle-right-icon"><use href="/assets/icons-7f1680a3670112fe4c8ef57b9dfb93f0f61b43a2a479d7abd6c83bcb724b9201.svg#angle-right"></use></svg></li>
 
 <li>
 <h2 class="breadcrumbs-sub-title" data-qa-selector="breadcrumb_sub_title_content">
-<a href="/ValeriiDmytryshyn/valeriidmytryshyn/-/blob/master/Java/Lecture_1/Lecture_1.iml">Repository</a>
+<a href="/Milena Muzyka/Milena Muzyka/-/blob/master/Java/Lecture_1/Lecture_1.iml">Repository</a>
 </h2>
 </li>
 </ul>
 </div>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Valerii Dmytryshyn","item":"https://gitlab.com/ValeriiDmytryshyn"},{"@type":"ListItem","position":2,"name":"ValeriiDmytryshyn","item":"https://gitlab.com/ValeriiDmytryshyn/valeriidmytryshyn"},{"@type":"ListItem","position":3,"name":"Repository","item":"https://gitlab.com/ValeriiDmytryshyn/valeriidmytryshyn/-/blob/master/Java/Lecture_1/Lecture_1.iml"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Milena Muzyka","item":"https://gitlab.com/ Milena Muzyka"},{"@type":"ListItem","position":2,"name":"Milena Muzyka","item":"https://gitlab.com/Milena Muzyka/Milena Muzyka"},{"@type":"ListItem","position":3,"name":"Repository","item":"https://gitlab.com/Milena Muzyka/Milena Muzyka/-/blob/master/Java/Lecture_1/Lecture_1.iml"}]}
 
 </script>
 
@@ -779,16 +779,16 @@ Snippets
 </div>
 
 
-<div class="js-signature-container" data-signatures-path="/ValeriiDmytryshyn/valeriidmytryshyn/-/commits/f17f0e9dd752dc312ffbf0ac738e7647dd97be3e/signatures?limit=1"></div>
+<div class="js-signature-container" data-signatures-path="/Milena Muzyka/Milena Muzyka/-/commits/f17f0e9dd752dc312ffbf0ac738e7647dd97be3e/signatures?limit=1"></div>
 
 <div class="tree-holder" id="tree-holder">
 <div class="nav-block">
 <div class="tree-ref-container">
 <div class="tree-ref-holder">
-<form class="project-refs-form" action="/ValeriiDmytryshyn/valeriidmytryshyn/-/refs/switch" accept-charset="UTF-8" method="get"><input type="hidden" name="destination" id="destination" value="blob" />
+<form class="project-refs-form" action="/Milena Muzyka/Milena Muzyka/-/refs/switch" accept-charset="UTF-8" method="get"><input type="hidden" name="destination" id="destination" value="blob" />
 <input type="hidden" name="path" id="path" value="Java/Lecture_1/Lecture_1.iml" />
 <div class="dropdown">
-<button class="dropdown-menu-toggle js-project-refs-dropdown qa-branches-select" type="button" data-toggle="dropdown" data-selected="master" data-ref="master" data-refs-url="/ValeriiDmytryshyn/valeriidmytryshyn/refs?sort=updated_desc" data-field-name="ref" data-submit-form-on-click="true" data-visit="true"><span class="dropdown-toggle-text ">master</span><svg class="s16 dropdown-menu-toggle-icon gl-top-3" data-testid="chevron-down-icon"><use href="/assets/icons-7f1680a3670112fe4c8ef57b9dfb93f0f61b43a2a479d7abd6c83bcb724b9201.svg#chevron-down"></use></svg></button>
+<button class="dropdown-menu-toggle js-project-refs-dropdown qa-branches-select" type="button" data-toggle="dropdown" data-selected="master" data-ref="master" data-refs-url="/Milena Muzyka/Milena Muzyka/refs?sort=updated_desc" data-field-name="ref" data-submit-form-on-click="true" data-visit="true"><span class="dropdown-toggle-text ">master</span><svg class="s16 dropdown-menu-toggle-icon gl-top-3" data-testid="chevron-down-icon"><use href="/assets/icons-7f1680a3670112fe4c8ef57b9dfb93f0f61b43a2a479d7abd6c83bcb724b9201.svg#chevron-down"></use></svg></button>
 <div class="dropdown-menu dropdown-menu-selectable git-revision-dropdown dropdown-menu-paging qa-branches-dropdown">
 <div class="dropdown-page-one">
 <div class="dropdown-title gl-display-flex"><span class="gl-ml-auto">Switch branch/tag</span><button class="dropdown-title-button dropdown-menu-close gl-ml-auto" aria-label="Close" type="button"><svg class="s16 dropdown-menu-close-icon" data-testid="close-icon"><use href="/assets/icons-7f1680a3670112fe4c8ef57b9dfb93f0f61b43a2a479d7abd6c83bcb724b9201.svg#close"></use></svg></button></div>
@@ -802,21 +802,21 @@ Snippets
 </div>
 <ul class="breadcrumb repo-breadcrumb">
 <li class="breadcrumb-item">
-<a href="/ValeriiDmytryshyn/valeriidmytryshyn/-/tree/master">valeriidmytryshyn
+<a href="/Milena Muzyka/Milena Muzyka/-/tree/master">valeriidmytryshyn
 </a></li>
 <li class="breadcrumb-item">
-<a href="/ValeriiDmytryshyn/valeriidmytryshyn/-/tree/master/Java">Java</a>
+<a href="/Milena Muzyka/Milena Muzyka/-/tree/master/Java">Java</a>
 </li>
 <li class="breadcrumb-item">
-<a href="/ValeriiDmytryshyn/valeriidmytryshyn/-/tree/master/Java/Lecture_1">Lecture_1</a>
+<a href="/Milena Muzyka/Milena Muzyka/-/tree/master/Java/Lecture_1">Lecture_1</a>
 </li>
 <li class="breadcrumb-item">
-<a href="/ValeriiDmytryshyn/valeriidmytryshyn/-/blob/master/Java/Lecture_1/Lecture_1.iml"><strong>Lecture_1.iml</strong>
+<a href="/Milena Muzyka/Milena Muzyka/-/blob/master/Java/Lecture_1/Lecture_1.iml"><strong>Lecture_1.iml</strong>
 </a></li>
 </ul>
 </div>
-<div class="tree-controls gl-children-ml-sm-3"><a class="gl-button btn btn-default shortcuts-find-file" rel="nofollow" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/find_file/master">Find file
-</a><a class="gl-button btn btn-default js-blob-blame-link" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/blame/master/Java/Lecture_1/Lecture_1.iml">Blame</a><a class="gl-button btn btn-default" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/commits/master/Java/Lecture_1/Lecture_1.iml">History</a><a class="gl-button btn btn-default js-data-file-blob-permalink-url" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/blob/3d0f7be874785bb9c89bcb6583f2db863790fc83/Java/Lecture_1/Lecture_1.iml">Permalink</a></div>
+<div class="tree-controls gl-children-ml-sm-3"><a class="gl-button btn btn-default shortcuts-find-file" rel="nofollow" href="/Milena Muzyka/Milena Muzyka/-/find_file/master">Find file
+</a><a class="gl-button btn btn-default js-blob-blame-link" href="/Milena Muzyka/Milena Muzyka/-/blame/master/Java/Lecture_1/Lecture_1.iml">Blame</a><a class="gl-button btn btn-default" href="/Milena Muzyka/Milena Muzyka/-/commits/master/Java/Lecture_1/Lecture_1.iml">History</a><a class="gl-button btn btn-default js-data-file-blob-permalink-url" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/blob/3d0f7be874785bb9c89bcb6583f2db863790fc83/Java/Lecture_1/Lecture_1.iml">Permalink</a></div>
 </div>
 
 <div class="info-well d-none d-sm-block">
@@ -824,23 +824,22 @@ Snippets
 <ul class="blob-commit-info">
 <li class="commit flex-row js-toggle-container" id="commit-f17f0e9d">
 <div class="avatar-cell d-none d-sm-block">
-<a href="mailto:Valerii_Dmytryshyn@epam.com"><img alt="Valerii Dmytryshyn&#39;s avatar" src="https://secure.gravatar.com/avatar/ce1ed4efbdd12bf3bf804ed743193b51?s=80&amp;d=identicon" class="avatar s40 d-none d-sm-inline-block" title="Valerii Dmytryshyn" /></a>
 </div>
 <div class="commit-detail flex-list">
 <div class="commit-content" data-qa-selector="commit_content">
-<a class="commit-row-message item-title js-onboarding-commit-item " href="/ValeriiDmytryshyn/valeriidmytryshyn/-/commit/f17f0e9dd752dc312ffbf0ac738e7647dd97be3e">Java lecture 1-2</a>
+<a class="commit-row-message item-title js-onboarding-commit-item " href="/Milena Muzyka/Milena Muzyka/-/commit/f17f0e9dd752dc312ffbf0ac738e7647dd97be3e">Java lecture 1-2</a>
 <span class="commit-row-message d-inline d-sm-none">
 &middot;
 f17f0e9d
 </span>
 <div class="committer">
-<a class="commit-author-link" href="mailto:Valerii_Dmytryshyn@epam.com">Valerii Dmytryshyn</a> authored <time class="js-timeago" title="Oct 10, 2021 11:32pm" datetime="2021-10-10T23:32:26Z" data-toggle="tooltip" data-placement="bottom" data-container="body">Oct 11, 2021</time>
+<a class="commit-author-link" href="mailto:Milena_Muzyka@epam.com">Milena Muzyka</a> authored <time class="js-timeago" title="Dec 20, 2021 23:17pm" datetime="2021-12-20T23:17:26Z" data-toggle="tooltip" data-placement="bottom" data-container="body">Dec 20, 2021</time>
 </div>
 
 </div>
 <div class="commit-actions flex-row">
 
-<div class="js-commit-pipeline-status" data-endpoint="/ValeriiDmytryshyn/valeriidmytryshyn/-/commit/f17f0e9dd752dc312ffbf0ac738e7647dd97be3e/pipelines?ref=master"></div>
+<div class="js-commit-pipeline-status" data-endpoint="/Milena Muzyka/Milena Muzyka/-/commit/f17f0e9dd752dc312ffbf0ac738e7647dd97be3e/pipelines?ref=master"></div>
 <div class="commit-sha-group btn-group d-none d-sm-flex">
 <div class="label label-monospace monospace">
 f17f0e9d
@@ -871,7 +870,7 @@ Lecture_1.iml
 </small>
 </div>
 
-<div class="file-actions gl-display-flex gl-align-items-center gl-flex-wrap gl-md-justify-content-end"><div class="d-inline-block" data-options="{&quot;project_path&quot;:&quot;ValeriiDmytryshyn/valeriidmytryshyn&quot;,&quot;ref&quot;:&quot;master&quot;,&quot;is_fork&quot;:false,&quot;needs_to_fork&quot;:true,&quot;gitpod_enabled&quot;:false,&quot;is_blob&quot;:true,&quot;show_edit_button&quot;:true,&quot;show_web_ide_button&quot;:true,&quot;show_gitpod_button&quot;:true,&quot;web_ide_url&quot;:&quot;/-/ide/project/MilenaM8/valeriidmytryshyn/edit/master/-/Java/Lecture_1/Lecture_1.iml&quot;,&quot;edit_url&quot;:&quot;/ValeriiDmytryshyn/valeriidmytryshyn/-/edit/master/Java/Lecture_1/Lecture_1.iml&quot;,&quot;gitpod_url&quot;:&quot;https://gitpod.io/#https://gitlab.com/ValeriiDmytryshyn/valeriidmytryshyn/-/tree/master/Java/Lecture_1/Lecture_1.iml&quot;}" id="js-blob-web-ide-link"></div>
+<div class="file-actions gl-display-flex gl-align-items-center gl-flex-wrap gl-md-justify-content-end"><div class="d-inline-block" data-options="{&quot;project_path&quot;:&quot;Milena Muzyka/Milena Muzyka&quot;,&quot;ref&quot;:&quot;master&quot;,&quot;is_fork&quot;:false,&quot;needs_to_fork&quot;:true,&quot;gitpod_enabled&quot;:false,&quot;is_blob&quot;:true,&quot;show_edit_button&quot;:true,&quot;show_web_ide_button&quot;:true,&quot;show_gitpod_button&quot;:true,&quot;web_ide_url&quot;:&quot;/-/ide/project/MilenaM8/valeriidmytryshyn/edit/master/-/Java/Lecture_1/Lecture_1.iml&quot;,&quot;edit_url&quot;:&quot;/ValeriiDmytryshyn/valeriidmytryshyn/-/edit/master/Java/Lecture_1/Lecture_1.iml&quot;,&quot;gitpod_url&quot;:&quot;https://gitpod.io/#https://gitlab.com/ValeriiDmytryshyn/valeriidmytryshyn/-/tree/master/Java/Lecture_1/Lecture_1.iml&quot;}" id="js-blob-web-ide-link"></div>
 <div class="modal" data-qa-selector="confirm_fork_modal" id="modal-confirm-fork-edit">
 <div class="modal-dialog">
 <div class="modal-content">
@@ -886,7 +885,7 @@ Lecture_1.iml
 </div>
 <div class="modal-footer">
 <a class="btn gl-button btn-default" data-dismiss="modal" href="#">Cancel</a>
-<a class="btn gl-button btn-confirm" data-qa-selector="fork_project_button" rel="nofollow" data-method="post" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/forks?continue%5Bnotice%5D=You%27re+not+allowed+to+make+changes+to+this+project+directly.+A+fork+of+this+project+has+been+created+that+you+can+make+changes+in%2C+so+you+can+submit+a+merge+request.&amp;continue%5Bnotice_now%5D=You%27re+not+allowed+to+make+changes+to+this+project+directly.+A+fork+of+this+project+is+being+created+that+you+can+make+changes+in%2C+so+you+can+submit+a+merge+request.&amp;continue%5Bto%5D=%2FValeriiDmytryshyn%2Fvaleriidmytryshyn%2F-%2Fedit%2Fmaster%2FJava%2FLecture_1%2FLecture_1.iml&amp;namespace_key=14616221">Fork project</a>
+<a class="btn gl-button btn-confirm" data-qa-selector="fork_project_button" rel="nofollow" data-method="post" href="/Milena Muzyka/Milena Muzyka/-/forks?continue%5Bnotice%5D=You%27re+not+allowed+to+make+changes+to+this+project+directly.+A+fork+of+this+project+has+been+created+that+you+can+make+changes+in%2C+so+you+can+submit+a+merge+request.&amp;continue%5Bnotice_now%5D=You%27re+not+allowed+to+make+changes+to+this+project+directly.+A+fork+of+this+project+is+being+created+that+you+can+make+changes+in%2C+so+you+can+submit+a+merge+request.&amp;continue%5Bto%5D=%2FValeriiDmytryshyn%2Fvaleriidmytryshyn%2F-%2Fedit%2Fmaster%2FJava%2FLecture_1%2FLecture_1.iml&amp;namespace_key=14616221">Fork project</a>
 </div>
 </div>
 </div>
@@ -906,7 +905,7 @@ Lecture_1.iml
 </div>
 <div class="modal-footer">
 <a class="btn gl-button btn-default" data-dismiss="modal" href="#">Cancel</a>
-<a class="btn gl-button btn-confirm" data-qa-selector="fork_project_button" rel="nofollow" data-method="post" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/forks?continue%5Bnotice%5D=You%27re+not+allowed+to+make+changes+to+this+project+directly.+A+fork+of+this+project+has+been+created+that+you+can+make+changes+in%2C+so+you+can+submit+a+merge+request.&amp;continue%5Bnotice_now%5D=You%27re+not+allowed+to+make+changes+to+this+project+directly.+A+fork+of+this+project+is+being+created+that+you+can+make+changes+in%2C+so+you+can+submit+a+merge+request.&amp;continue%5Bto%5D=%2F-%2Fide%2Fproject%2FMilenaM8%2Fvaleriidmytryshyn%2Fedit%2Fmaster%2F-%2FJava%2FLecture_1%2FLecture_1.iml&amp;namespace_key=14616221">Fork project</a>
+<a class="btn gl-button btn-confirm" data-qa-selector="fork_project_button" rel="nofollow" data-method="post" href="/Milena Muzyka/Milena Muzyka/-/forks?continue%5Bnotice%5D=You%27re+not+allowed+to+make+changes+to+this+project+directly.+A+fork+of+this+project+has+been+created+that+you+can+make+changes+in%2C+so+you+can+submit+a+merge+request.&amp;continue%5Bnotice_now%5D=You%27re+not+allowed+to+make+changes+to+this+project+directly.+A+fork+of+this+project+is+being+created+that+you+can+make+changes+in%2C+so+you+can+submit+a+merge+request.&amp;continue%5Bto%5D=%2F-%2Fide%2Fproject%2FMilenaM8%2Fvaleriidmytryshyn%2Fedit%2Fmaster%2F-%2FJava%2FLecture_1%2FLecture_1.iml&amp;namespace_key=14616221">Fork project</a>
 </div>
 </div>
 </div>
@@ -935,29 +934,29 @@ Lecture_1.iml
 <div class="btn-group gl-ml-3" role="group">
 <span title="You do not have permission to lock this" class="btn-group has-tooltip"><span class="btn gl-button btn-default path-lock disabled" data-qa-selector="disabled_lock_button">Lock</span></span>
 
-<button name="button" type="submit" class="btn gl-button btn-default btn-default js-edit-blob-link-fork-toggler" data-action="replace" data-fork-path="/ValeriiDmytryshyn/valeriidmytryshyn/-/forks?continue%5Bnotice%5D=You%27re+not+allowed+to+make+changes+to+this+project+directly.+A+fork+of+this+project+has+been+created+that+you+can+make+changes+in%2C+so+you+can+submit+a+merge+request.+Try+to+replace+this+file+again.&amp;continue%5Bnotice_now%5D=You%27re+not+allowed+to+make+changes+to+this+project+directly.+A+fork+of+this+project+is+being+created+that+you+can+make+changes+in%2C+so+you+can+submit+a+merge+request.&amp;continue%5Bto%5D=%2FValeriiDmytryshyn%2Fvaleriidmytryshyn%2F-%2Fblob%2Fmaster%2FJava%2FLecture_1%2FLecture_1.iml&amp;namespace_key=14616221">Replace</button>
-<button name="button" type="submit" class="btn gl-button btn-default btn-default js-edit-blob-link-fork-toggler" data-action="delete" data-fork-path="/ValeriiDmytryshyn/valeriidmytryshyn/-/forks?continue%5Bnotice%5D=You%27re+not+allowed+to+make+changes+to+this+project+directly.+A+fork+of+this+project+has+been+created+that+you+can+make+changes+in%2C+so+you+can+submit+a+merge+request.+Try+to+delete+this+file+again.&amp;continue%5Bnotice_now%5D=You%27re+not+allowed+to+make+changes+to+this+project+directly.+A+fork+of+this+project+is+being+created+that+you+can+make+changes+in%2C+so+you+can+submit+a+merge+request.&amp;continue%5Bto%5D=%2FValeriiDmytryshyn%2Fvaleriidmytryshyn%2F-%2Fblob%2Fmaster%2FJava%2FLecture_1%2FLecture_1.iml&amp;namespace_key=14616221">Delete</button>
+<button name="button" type="submit" class="btn gl-button btn-default btn-default js-edit-blob-link-fork-toggler" data-action="replace" data-fork-path="/Milena Muzyka/Milena Muzyka/-/forks?continue%5Bnotice%5D=You%27re+not+allowed+to+make+changes+to+this+project+directly.+A+fork+of+this+project+has+been+created+that+you+can+make+changes+in%2C+so+you+can+submit+a+merge+request.+Try+to+replace+this+file+again.&amp;continue%5Bnotice_now%5D=You%27re+not+allowed+to+make+changes+to+this+project+directly.+A+fork+of+this+project+is+being+created+that+you+can+make+changes+in%2C+so+you+can+submit+a+merge+request.&amp;continue%5Bto%5D=%2FValeriiDmytryshyn%2Fvaleriidmytryshyn%2F-%2Fblob%2Fmaster%2FJava%2FLecture_1%2FLecture_1.iml&amp;namespace_key=14616221">Replace</button>
+<button name="button" type="submit" class="btn gl-button btn-default btn-default js-edit-blob-link-fork-toggler" data-action="delete" data-fork-path="/Milena Muzyka/Milena Muzyka/-/forks?continue%5Bnotice%5D=You%27re+not+allowed+to+make+changes+to+this+project+directly.+A+fork+of+this+project+has+been+created+that+you+can+make+changes+in%2C+so+you+can+submit+a+merge+request.+Try+to+delete+this+file+again.&amp;continue%5Bnotice_now%5D=You%27re+not+allowed+to+make+changes+to+this+project+directly.+A+fork+of+this+project+is+being+created+that+you+can+make+changes+in%2C+so+you+can+submit+a+merge+request.&amp;continue%5Bto%5D=%2FValeriiDmytryshyn%2Fvaleriidmytryshyn%2F-%2Fblob%2Fmaster%2FJava%2FLecture_1%2FLecture_1.iml&amp;namespace_key=14616221">Delete</button>
 </div><div class="btn-group gl-ml-3" role="group">
 <span class="btn-group has-tooltip js-copy-blob-source-btn-tooltip"><button class="btn btn gl-button btn-default btn-icon js-copy-blob-source-btn" data-class="btn gl-button btn-default btn-icon js-copy-blob-source-btn" data-hide-tooltip="true" data-clipboard-target=".blob-content[data-blob-id=&#39;c90834f2d607afe55e6104d8aa2cdfffb713f688&#39;] &gt; pre" type="button" title="Copy" aria-label="Copy"><svg class="s16 gl-icon" data-testid="copy-to-clipboard-icon"><use href="/assets/icons-7f1680a3670112fe4c8ef57b9dfb93f0f61b43a2a479d7abd6c83bcb724b9201.svg#copy-to-clipboard"></use></svg></button></span>
-<a class="btn gl-button btn-default btn-icon has-tooltip" target="_blank" rel="noopener noreferrer" aria-label="Open raw" title="Open raw" data-container="body" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/raw/master/Java/Lecture_1/Lecture_1.iml"><svg class="s16" data-testid="doc-code-icon"><use href="/assets/icons-7f1680a3670112fe4c8ef57b9dfb93f0f61b43a2a479d7abd6c83bcb724b9201.svg#doc-code"></use></svg></a>
-<a download="Java/Lecture_1/Lecture_1.iml" class="btn gl-button btn-default btn-icon has-tooltip" target="_blank" rel="noopener noreferrer" aria-label="Download" title="Download" data-container="body" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/raw/master/Java/Lecture_1/Lecture_1.iml?inline=false"><svg class="s16" data-testid="download-icon"><use href="/assets/icons-7f1680a3670112fe4c8ef57b9dfb93f0f61b43a2a479d7abd6c83bcb724b9201.svg#download"></use></svg></a>
+<a class="btn gl-button btn-default btn-icon has-tooltip" target="_blank" rel="noopener noreferrer" aria-label="Open raw" title="Open raw" data-container="body" href="/Milena Muzyka/Milena Muzyka/-/raw/master/Java/Lecture_1/Lecture_1.iml"><svg class="s16" data-testid="doc-code-icon"><use href="/assets/icons-7f1680a3670112fe4c8ef57b9dfb93f0f61b43a2a479d7abd6c83bcb724b9201.svg#doc-code"></use></svg></a>
+<a download="Java/Lecture_1/Lecture_1.iml" class="btn gl-button btn-default btn-icon has-tooltip" target="_blank" rel="noopener noreferrer" aria-label="Download" title="Download" data-container="body" href="/Milena Muzyka/Milena Muzyka/-/raw/master/Java/Lecture_1/Lecture_1.iml?inline=false"><svg class="s16" data-testid="download-icon"><use href="/assets/icons-7f1680a3670112fe4c8ef57b9dfb93f0f61b43a2a479d7abd6c83bcb724b9201.svg#download"></use></svg></a>
 
 </div></div>
 </div>
 <div class="js-file-fork-suggestion-section file-fork-suggestion hidden">
 <span class="file-fork-suggestion-note">You can’t <span class="js-file-fork-suggestion-section-action">edit</span> files directly in this project. Fork this project and submit a merge request with your changes.</span>
-<a class="js-fork-suggestion-button gl-button btn btn-grouped btn-confirm-secondary" rel="nofollow" data-method="post" href="/ValeriiDmytryshyn/valeriidmytryshyn/-/blob/master/Java/Lecture_1/Lecture_1.iml">Fork</a>
+<a class="js-fork-suggestion-button gl-button btn btn-grouped btn-confirm-secondary" rel="nofollow" data-method="post" href="/Milena Muzyka/Milena Muzyka/-/blob/master/Java/Lecture_1/Lecture_1.iml">Fork</a>
 <button class="js-cancel-fork-suggestion-button gl-button btn btn-grouped" type="button">
 Cancel
 </button>
 </div>
 
 <script id="js-file-lock" type="application/json">
-{"path":"Java/Lecture_1/Lecture_1.iml","toggle_path":"/ValeriiDmytryshyn/valeriidmytryshyn/path_locks/toggle"}
+{"path":"Java/Lecture_1/Lecture_1.iml","toggle_path":"/Milena Muzyka/Milena Muzyka/path_locks/toggle"}
 </script>
 
 
-<div class="blob-viewer" data-path="Java/Lecture_1/Lecture_1.iml" data-type="simple" data-url="/ValeriiDmytryshyn/valeriidmytryshyn/-/blob/master/Java/Lecture_1/Lecture_1.iml?format=json&amp;viewer=simple">
+<div class="blob-viewer" data-path="Java/Lecture_1/Lecture_1.iml" data-type="simple" data-url="/Milena Muzyka/Milena Muzyka/-/blob/master/Java/Lecture_1/Lecture_1.iml?format=json&amp;viewer=simple">
 <div class="text-center gl-mt-4 gl-mb-3">
 <span class="gl-spinner gl-spinner-orange gl-spinner-md qa-spinner" aria-label="Loading"></span>
 </div>
@@ -978,7 +977,7 @@ Cancel
 </button>
 </div>
 <div class="modal-body">
-<form class="js-quick-submit js-upload-blob-form" data-method="put" action="/ValeriiDmytryshyn/valeriidmytryshyn/-/update/master/Java/Lecture_1/Lecture_1.iml" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="SvX6EzAAKiuH1JmnjjICWwpH0RctXN9mSFowPolBNjmOQD1MJ5I31pLDNthr0zoMTOFDX/3tL6qUb0sE0HqGYQ==" /><div class="dropzone">
+<form class="js-quick-submit js-upload-blob-form" data-method="put" action="/ Milena Muzyka/Milena Muzyka/-/update/master/Java/Lecture_1/Lecture_1.iml" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="SvX6EzAAKiuH1JmnjjICWwpH0RctXN9mSFowPolBNjmOQD1MJ5I31pLDNthr0zoMTOFDX/3tL6qUb0sE0HqGYQ==" /><div class="dropzone">
 <div class="dropzone-previews blob-upload-dropzone-previews">
 <p class="dz-message light">
 Attach a file by drag &amp; drop or <a class="markdown-selector" href="#">click to upload</a>
@@ -1021,7 +1020,7 @@ GitLab will create a branch in your fork and start a merge request.
 <script nonce="+e21IZw3B6vV+ovXx2T5nw==">
 //<![CDATA[
   window.gl = window.gl || {};
-  window.gl.webIDEPath = '/-/ide/project/MilenaM8/valeriidmytryshyn/edit/master/-/Java/Lecture_1/Lecture_1.iml'
+  window.gl.webIDEPath = '/-/ide/project/MilenaM8/Milena Muzyka/edit/master/-/Java/Lecture_1/Lecture_1.iml'
 
 
 //]]>
